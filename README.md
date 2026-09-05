@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="URL_DO_SEU_BANNER_AQUI" alt="Banner GitHub Vagner Tomaz" width="100%" />
+  <img src="COLE_O_LINK_DIRETO_DA_IMAGEM_AQUI" alt="Banner GitHub Vagner Tomaz" width="100%" />
 </p>
 
 # Olá, Mundo! 👋 Eu sou o Vagner Tomaz dos Santos
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Em_Evolução_Contínua-blue?style=for-the-badge&logo=git" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-Cloud_%7C_Infraestrutura_%7C_Automação-orange?style=for-the-badge&logo=amazonservices" alt="Foco" />
+  <img src="https://img.shields.io/badge/Foco-Cloud_%7C_Infraestrutura_%7C_Sistemas-orange?style=for-the-badge&logo=amazonservices" alt="Foco" />
 </p>
 
 ---
 
 ### 💻 Sobre Mim
 
-* 👨‍💻 Profissional atuando nas áreas de **Tecnologia, Infraestrutura de Cloud** e **Sistemas**.
-* ☁️ Atualmente focado em aprofundar estudos no ecossistema **AWS (Amazon Web Services)** e ambientes **Linux**.
-* 🚀 Apaixonado por inovação, automação de processos e criação de soluções eficientes.
-* 🎯 Meu objetivo é transformar desafios complexos em códigos limpos, escaláveis e funcionais.
+* 👨‍💻 Profissional atuando nas áreas de **Tecnologia, Infraestrutura e Gestão de Sistemas**.
+* ☁️ Focado em expandir conhecimentos no ecossistema **AWS (Amazon Web Services)** e ambientes **Linux**.
+* 🛡️ Experiência com administração de ambientes, automação de processos e segurança da informação.
+* 🎯 Meu objetivo é estruturar ambientes eficientes, seguros e orientados a dados.
 
 ---
 
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   
-  <!-- Banco de Dados & Outros -->
+  <!-- Dados & Ferramentas -->
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=uvsanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
