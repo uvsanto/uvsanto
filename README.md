@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="COLE_O_LINK_DIRETO_DA_IMAGEM_AQUI" alt="Banner GitHub Vagner Tomaz" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uvsanto/uvsanto/main/banner.jpg" alt="Banner GitHub Vagner Tomaz" width="100%" />
 </p>
 
 # Olá, Mundo! 👋 Eu sou o Vagner Tomaz dos Santos
