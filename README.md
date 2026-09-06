@@ -1,15 +1,7 @@
-(https://github.com/user-attachments/files/31874502/README.7.md)
+[README (8).md](https://github.com/user-attachments/files/31875358/README.8.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Vagner%20Tomaz%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20Arquitetura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Resili%C3%AAncia&descAlignY=58&descSize=18" alt="Header" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Cloud+e+AWS+Solutions+Architect;Seguran%C3%A7a+%2B+Resili%C3%AAncia+%2B+FinOps;Infraestrutura+como+C%C3%B3digo" alt="Typing SVG" />
-
-**Cloud • AWS • Arquitetura • Segurança • Resiliência • Infraestrutura como Código**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-tomaz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uvsanto)
-[![Email](https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnertomaz@hotmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:FF9900&height=230&section=header&text=Vagner%20Tomaz%20dos%20Santos&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20Arquitetura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Resili%C3%AAncia&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uvsanto&color=blue&style=for-the-badge&label=Visualizações)
 
