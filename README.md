@@ -1,4 +1,4 @@
-[README (7).md](https://github.com/user-attachments/files/31874502/README.7.md)
+(https://github.com/user-attachments/files/31874502/README.7.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Vagner%20Tomaz%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20Arquitetura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Resili%C3%AAncia&descAlignY=58&descSize=18" alt="Header" width="100%"/>
