@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/uvsanto/uvsanto/main/banner.jpeg" alt="Banner GitHub Vagner Tomaz" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:FF9900&height=230&section=header&text=Vagner%20Tomaz%20dos%20Santos&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20Arquitetura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Resili%C3%AAncia&descAlignY=58&descSize=18" alt="Header" width="100%"/>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uvsanto&color=blue&style=for-the-badge&label=Visualizações)
 
