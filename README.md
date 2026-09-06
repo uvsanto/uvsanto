@@ -1,6 +1,5 @@
 <p align="center">
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uvsanto/uvsanto/main/banner.jpg" alt="Banner GitHub Vagner Tomaz" width="100%" />
+  <img src="https://raw.githubusercontent.com/uvsanto/uvsanto/main/banner.jpeg" alt="Banner GitHub Vagner Tomaz" width="100%" />
 </p>
 
 # Olá, Mundo! 👋 Eu sou o Vagner Tomaz dos Santos
@@ -37,18 +36,19 @@
 </p>
 
 ---
-
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=uvsanto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvsanto&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uvsanto&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=uvsanto&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvsanto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsanto&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ### 📫 Conecte-se comigo
