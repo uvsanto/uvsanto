@@ -1,14 +1,15 @@
+[README (7).md](https://github.com/user-attachments/files/31874502/README.7.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Vagner%20Tomaz%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AWS%20%E2%80%A2%20Arquitetura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Resili%C3%AAncia&descAlignY=58&descSize=18" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Vagner%20Tomaz%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20Arquitetura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Resili%C3%AAncia&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Cloud+%26+AWS+Solutions+Architect;Seguran%C3%A7a+%2B+Resili%C3%AAncia+%2B+FinOps;Infraestrutura+como+C%C3%B3digo" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Cloud+e+AWS+Solutions+Architect;Seguran%C3%A7a+%2B+Resili%C3%AAncia+%2B+FinOps;Infraestrutura+como+C%C3%B3digo" alt="Typing SVG" />
 
-**Cloud & AWS • Arquitetura • Segurança • Resiliência • Infraestrutura como Código**
+**Cloud • AWS • Arquitetura • Segurança • Resiliência • Infraestrutura como Código**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-tomaz)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uvsanto)
-[![Email](https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![Email](https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnertomaz@hotmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=uvsanto&color=blue&style=for-the-badge&label=Visualizações)
 
@@ -70,7 +71,6 @@ Atualmente, meu foco está em construir soluções AWS que sejam tecnicamente co
 <p>
 <img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white" alt="AWS IAM"/>
 <img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS WAF"/>
-<img src="https://img.shields.io/badge/CompTIA_Security+-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
 </p>
 
 Princípios que procuro aplicar nos projetos:
@@ -87,14 +87,15 @@ Princípios que procuro aplicar nos projetos:
 ## 🧱 Infrastructure as Code & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/AWS_CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CloudFormation"/>
+<img src="https://img.shields.io/badge/Kiro-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Kiro"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 Busco utilizar IaC e controle de versão para tornar a infraestrutura **reproduzível, auditável e evolutiva**.
+
+> 🔧 **Em andamento:** refazendo o projeto CloudEdu de forma individual, utilizando o **Kiro** para o desenho e a implementação da infraestrutura.
 
 ---
 
@@ -175,7 +176,6 @@ Uma arquitetura não é apenas um diagrama. **É um conjunto de decisões, trade
 
 <p>
 <img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS CCP"/>
-<img src="https://img.shields.io/badge/CompTIA_Security+-EA1D25?style=flat-square&logo=comptia&logoColor=white" alt="Security+"/>
 <img src="https://img.shields.io/badge/AWS_re/Start_Graduate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS re/Start"/>
 <img src="https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
 <img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="AI-900"/>
@@ -208,7 +208,7 @@ Foco complementar: **Cloud Architecture • Security • Resilience • IaC • 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uvsanto&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uvsanto&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsanto&hide_border=true" alt="GitHub Streak" width="49%"/>
 
 </div>
@@ -233,6 +233,9 @@ Foco complementar: **Cloud Architecture • Security • Resilience • IaC • 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-tomaz)
 [![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uvsanto)
+[![Credly](https://img.shields.io/badge/Credly-Certifica%C3%A7%C3%B5es-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/vagner-tomaz-dos-santos)
+[![X](https://img.shields.io/badge/X-@VagnerTomaz3-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VagnerTomaz3)
+[![Email](https://img.shields.io/badge/Email-vagnertomaz@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagnertomaz@hotmail.com)
 
 **Cloud • Architecture • Security • Resilience • Infrastructure as Code**
 
