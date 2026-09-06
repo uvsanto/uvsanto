@@ -1,21 +1,33 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/uvsanto/uvsanto/main/banner.jpeg.png" alt="Vagner Tomaz — Cloud, AWS, Architecture, Security and Resilience" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">Vagner Tomaz dos Santos</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=200&section=header&text=Vagner%20Tomaz%20dos%20Santos&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20AWS%20%E2%80%A2%20Arquitetura%20%E2%80%A2%20Seguran%C3%A7a%20%E2%80%A2%20Resili%C3%AAncia&descAlignY=58&descSize=18" alt="Header" width="100%"/>
 
-<p align="center">
-  <strong>Cloud & AWS • Arquitetura • Segurança • Resiliência • Infraestrutura como Código</strong>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=Cloud+%26+AWS+Solutions+Architect;Seguran%C3%A7a+%2B+Resili%C3%AAncia+%2B+FinOps;Infraestrutura+como+C%C3%B3digo" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vagner-tomaz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/uvsanto">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+**Cloud & AWS • Arquitetura • Segurança • Resiliência • Infraestrutura como Código**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-tomaz)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uvsanto)
+[![Email](https://img.shields.io/badge/Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=uvsanto&color=blue&style=for-the-badge&label=Visualizações)
+
+</div>
+
+---
+
+## 📑 Sumário
+
+- [Sobre mim](#-sobre-mim)
+- [Cloud & Arquitetura](#️-cloud--arquitetura)
+- [Segurança](#️-segurança)
+- [Infrastructure as Code & DevOps](#-infrastructure-as-code--devops)
+- [Projetos em destaque](#-projetos-em-destaque)
+- [Como penso arquitetura](#-como-penso-arquitetura)
+- [Certificações & Formação](#-certificações--formação)
+- [GitHub Stats](#-github-stats)
+- [Cobrinha de Commits](#-cobrinha-de-commits)
+- [Vamos conectar?](#-vamos-conectar)
 
 ---
 
@@ -31,12 +43,12 @@ Atualmente, meu foco está em construir soluções AWS que sejam tecnicamente co
 
 ## ☁️ Cloud & Arquitetura
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloud_Architecture-232F3E?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Architecture" />
-  <img src="https://img.shields.io/badge/Serverless-232F3E?style=for-the-badge&logo=awslambda&logoColor=FF9900" alt="Serverless" />
-  <img src="https://img.shields.io/badge/High_Availability-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="High Availability" />
-  <img src="https://img.shields.io/badge/Disaster_Recovery-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="Disaster Recovery" />
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture-232F3E?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Architecture"/>
+<img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless"/>
+<img src="https://img.shields.io/badge/High_Availability-2596BE?style=for-the-badge&logo=amazonaws&logoColor=white" alt="High Availability"/>
+<img src="https://img.shields.io/badge/Disaster_Recovery-C1272D?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Disaster Recovery"/>
 </p>
 
 **Principais temas de estudo e aplicação:**
@@ -55,10 +67,10 @@ Atualmente, meu foco está em construir soluções AWS que sejam tecnicamente co
 
 ## 🛡️ Segurança
 
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS_IAM-232F3E?style=for-the-badge&logo=amazoniam&logoColor=FF9900" alt="AWS IAM" />
-  <img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS WAF" />
-  <img src="https://img.shields.io/badge/Security%2B-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+" />
+<p>
+<img src="https://img.shields.io/badge/AWS_IAM-FF9900?style=for-the-badge&logo=amazoniam&logoColor=white" alt="AWS IAM"/>
+<img src="https://img.shields.io/badge/AWS_WAF-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS WAF"/>
+<img src="https://img.shields.io/badge/CompTIA_Security+-EA1D25?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA Security+"/>
 </p>
 
 Princípios que procuro aplicar nos projetos:
@@ -74,12 +86,12 @@ Princípios que procuro aplicar nos projetos:
 
 ## 🧱 Infrastructure as Code & DevOps
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/AWS_CloudFormation-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS CloudFormation" />
-  <img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+<p>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/AWS_CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CloudFormation"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 Busco utilizar IaC e controle de versão para tornar a infraestrutura **reproduzível, auditável e evolutiva**.
@@ -137,7 +149,7 @@ O projeto também explora decisões arquiteturais sob a perspectiva do **AWS Wel
 
 Meu processo de análise procura responder, antes de escolher uma tecnologia:
 
-```text
+```
 Requisito de negócio
         ↓
 Risco / ameaça / ponto de falha
@@ -161,12 +173,14 @@ Uma arquitetura não é apenas um diagrama. **É um conjunto de decisões, trade
 
 ## 📜 Certificações & Formação
 
-- 🟧 **AWS Certified Cloud Practitioner — CLF-C02**
-- 🔐 **CompTIA Security+ — SY0-701**
-- ☁️ **AWS re/Start Graduate**
-- ☁️ **Microsoft Azure Fundamentals — AZ-900**
-- 🤖 **Microsoft Azure AI Fundamentals — AI-900**
-- ⚙️ **ITIL Foundation**
+<p>
+<img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS CCP"/>
+<img src="https://img.shields.io/badge/CompTIA_Security+-EA1D25?style=flat-square&logo=comptia&logoColor=white" alt="Security+"/>
+<img src="https://img.shields.io/badge/AWS_re/Start_Graduate-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS re/Start"/>
+<img src="https://img.shields.io/badge/Azure_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-900"/>
+<img src="https://img.shields.io/badge/Azure_AI_Fundamentals-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="AI-900"/>
+<img src="https://img.shields.io/badge/ITIL_Foundation-000000?style=flat-square&logo=itil&logoColor=white" alt="ITIL"/>
+</p>
 
 ### 🎯 Atualmente estudando
 
@@ -178,29 +192,48 @@ Foco complementar: **Cloud Architecture • Security • Resilience • IaC • 
 
 ## 📚 Princípios que orientam meus projetos
 
-| Área | Foco |
-|---|---|
-| 🏗️ Arquitetura | Trade-offs, escalabilidade e desacoplamento |
-| 🛡️ Segurança | Least Privilege e defesa em profundidade |
-| 🔄 Resiliência | HA, DR, failover, RTO e RPO |
-| 📊 Observabilidade | Métricas, logs, alertas e operação |
-| 💰 FinOps | Custo, eficiência e decisões conscientes |
-| 🧩 IaC | Automação, repetibilidade e governança |
-| 🧪 Validação | Testes, cenários de falha e evidências |
+| Área              | Foco                                        |
+| ----------------- | ------------------------------------------- |
+| 🏗️ Arquitetura    | Trade-offs, escalabilidade e desacoplamento |
+| 🛡️ Segurança      | Least Privilege e defesa em profundidade    |
+| 🔄 Resiliência     | HA, DR, failover, RTO e RPO                 |
+| 📊 Observabilidade | Métricas, logs, alertas e operação          |
+| 💰 FinOps          | Custo, eficiência e decisões conscientes    |
+| 🧩 IaC             | Automação, repetibilidade e governança      |
+| 🧪 Validação       | Testes, cenários de falha e evidências      |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=uvsanto&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=uvsanto&hide_border=true" alt="GitHub Streak" width="49%"/>
+
+</div>
+
+---
+
+## 🐍 Cobrinha de Commits
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/uvsanto/uvsanto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+
+</div>
+
+> Gerada automaticamente por um GitHub Action ([Platane/snk](https://github.com/Platane/snk)) que "come" o seu gráfico de contribuições. Veja o arquivo `snake.yml` para configurar no seu repositório.
 
 ---
 
 ## 📫 Vamos conectar?
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/vagner-tomaz">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/uvsanto">
-    <img src="https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Cloud • Architecture • Security • Resilience • Infrastructure as Code</sub>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagner-tomaz)
+[![GitHub](https://img.shields.io/badge/GitHub-Seguir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uvsanto)
+
+**Cloud • Architecture • Security • Resilience • Infrastructure as Code**
+
+</div>
