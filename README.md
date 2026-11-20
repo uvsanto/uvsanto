@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uvsanto/uvsanto/main/banner.jpeg" alt="Banner GitHub Vagner Tomaz" width="100%" />
+  <img src="https://raw.githubusercontent.com/uvsanto/uvsanto/main/Gemini_Generated_Image_lur9lwlur9lwlur9.jpeg" alt="Banner GitHub Vagner Tomaz" width="100%" />
 </p>
 
 
